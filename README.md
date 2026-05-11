@@ -1,5 +1,4 @@
-# ml-mini-project
-Machine Learning portfolio projects
+# ML Mini Project
 
 ## Objective
 A collection of machine learning mini projects for portfolio building and practice.
