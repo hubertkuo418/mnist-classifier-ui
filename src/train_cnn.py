@@ -48,5 +48,7 @@ def train_cnn(x_train_cnn, y_train):
         batch_size=128,
         validation_split=0.2
     )
-
+    
+    model_cnn.save("saved_model/cnn_model.keras")
+    
     return model_cnn, history

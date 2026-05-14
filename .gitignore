@@ -1,27 +1,12 @@
-# Byte-compiled
 __pycache__/
 *.pyc
-
-# Jupyter
+.venv/
+env/
+env.bak/
+venv/
 .ipynb_checkpoints/
 
-# Environments
-env/
-venv/
-ml-env/
-.env
-
-# Logs
-*.log
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Outputs (ML results)
 outputs/
-models/
+saved_model/
 
-# VS Code temp
-.vscode/
-tempCodeRunnerFile.py
+.DS_Store
