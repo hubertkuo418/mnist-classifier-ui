@@ -1,10 +1,10 @@
-# 🧠 Handwritten Digit Classification (MNIST)
+# Handwritten Digit Classification (MNIST)
 
 Compare Machine Learning and Deep Learning models on MNIST handwritten digit recognition.
 
 ---
 
-# 📌 Models
+# Models
 
 - Logistic Regression + PCA
 - Convolutional Neural Network (CNN)
@@ -12,7 +12,7 @@ Compare Machine Learning and Deep Learning models on MNIST handwritten digit rec
 
 ---
 
-# 📊 Results
+# Results
 
 | Model | Accuracy |
 |---|---|
@@ -24,7 +24,7 @@ Compare Machine Learning and Deep Learning models on MNIST handwritten digit rec
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```text
 ML-MINI-PROJECT/
@@ -48,7 +48,7 @@ ML-MINI-PROJECT/
 
 ---
 
-# 🚀 Installation
+# Installation
 
 ```bash
 pip install -r requirements.txt
@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 ---
 
-# ▶️ Run Training
+# Run Training
 
 ```bash
 python main.py
@@ -70,7 +70,7 @@ outputs/
 
 ---
 
-# 🎨 Run Streamlit App
+# Run Streamlit App
 
 Launch the interactive handwritten digit recognizer:
 
@@ -86,7 +86,7 @@ Features:
 
 ---
 
-# ⚙️ Methodology
+# Methodology
 
 ## Logistic Regression
 
@@ -101,13 +101,13 @@ Features:
 
 ---
 
-# 📈 Conclusion
+# Conclusion
 
 CNN achieves much higher accuracy because it automatically learns spatial image features.
 
 ---
 
-# 👤 Author
+# Author
 
 Student
 
