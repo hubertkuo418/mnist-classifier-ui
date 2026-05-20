@@ -3,7 +3,7 @@ import numpy as np
 import os
 
 
-def plot_accuracy_bar(acc_lr, acc_cnn, save_path="outputs"):
+def plot_accuracy_bar(acc_lr, acc_cnn, save_path="assets"):
     """
     Compare model accuracy between Logistic Regression and CNN.
 
@@ -29,7 +29,7 @@ def plot_accuracy_bar(acc_lr, acc_cnn, save_path="outputs"):
     plt.close()
 
 
-def plot_misclassified(x_test_raw, y_true, y_pred, save_path="outputs", model_name="model"):
+def plot_misclassified(x_test_raw, y_true, y_pred, save_path="assets", model_name="model"):
     """
     Visualize misclassified samples.
 
